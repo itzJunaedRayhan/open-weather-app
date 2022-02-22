@@ -7,6 +7,6 @@ Technology Used:
     Axios,
     Open Weather Api
 
-Live Link: 
+Live Link: https://webgenesis-weather-app-1.netlify.app/
 
-GitHub: 
+GitHub: https://github.com/itzJunaedRayhan/open-weather-app
